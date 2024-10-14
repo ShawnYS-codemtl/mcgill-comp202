@@ -18,5 +18,8 @@ Topics: Dictionaries, Files, Strings
 
 Grade: 97
 
+## Presentation Exercises
+Topics: OOP, Strings (Complex)
+
 
 
