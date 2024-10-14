@@ -1,6 +1,8 @@
 # mcgill-comp202
 *COMP202: Foundations of Programming*
 
+FALL 2021
+
 FINAL GRADE: A
 
 ## Assignment 1
