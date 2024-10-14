@@ -1,6 +1,8 @@
 # mcgill-comp202
 *COMP202: Foundations of Programming*
 
+FINAL GRADE: A
+
 ## Assignment 1
 Topics: Turtle, Basics
 
@@ -17,5 +19,4 @@ Topics: Dictionaries, Files, Strings
 Grade: 97
 
 
-FINAL GRADE: A
 
